@@ -1,4 +1,3 @@
-
 const perguntas = [
     {
         enunciado: "Assim que você termina o ensino médio se depara com uma oportunidade de trabalho. Qual o primeiro pensamento?",
